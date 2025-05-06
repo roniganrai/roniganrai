@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=roniganrai&label=Profile%20views&color=0e75b6&style=flat" alt="your-name" />
+
+
 ---
 
 - 👀 I’m interested in Electronics, Frontend Development, and Software Engineering.
