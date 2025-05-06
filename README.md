@@ -1,21 +1,42 @@
-# 👋 Hi, I’m Roni Ganrai
+<h1 align="center">Hi 👋, I'm Roni Ganrai</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Frontend Developer | Software Engineering</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
 
 - 👀 I’m interested in Electronics, Frontend Development, and Software Engineering.
-- 🌱 I’m currently learning JAVA, Data Structures & Algorithms, and Web Dev.
-- 🤝 I’m looking to collaborate on Full Stack Web Development and IoT projects.
-- 📫 How to reach me: 
+- 🌱 I’m currently learning JAVA, Data Structures & Algorithms, and Web Development.
+- 🤝 I’m looking to collaborate on Full Stack Web Development and projects.
+- 📫 How to reach me:  
   - 📧 roniganrai2029@gmail.com  
 - 🧠 Pronouns: He/Him
 - 🎯 Fun fact: I love combining software with electronics to build smart, real-world solutions!
 
 ---
 
-### 🚀 Projects
-- 🔐 **ATM Interface** - Core Java + JDBC + MySQL Console Application
-- 🕹️ **Number Guessing Game** - Java console game
-- 🎮 **Tic-Tac-Toe Game** – A fun browser game made with HTML, CSS, and JavaScript; includes sound effects and is being turned into a PWA
-- 💼 **Job Portal** - MERN Stack project with authentication and job posting features (In progress)
+### 🛠️ Languages & Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,vscode" />
+</p>
 
 ---
 
-_Thanks for visiting! Let’s connect and build something amazing together!_
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roniganrai&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniganrai&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="mailto:roniganrai2029@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/roni-ganrai-20jun2004/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
